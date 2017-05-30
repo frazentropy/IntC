@@ -16,5 +16,3 @@ int main () {
 int this_other_function() {
     return this_function();
 }
-
-this
